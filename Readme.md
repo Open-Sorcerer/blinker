@@ -1,6 +1,6 @@
 # Blinker
 
-A command-line interface tool for installing Solana Blinks project templates.
+A beautiful command-line interface tool for installing Solana Blinks project templates.
 
 ## Installation
 
@@ -13,15 +13,10 @@ npm install -g blinker
 To create a new Solana Blinks project:
 
 ```bash
-blinker create my-project
+blinker create
 ```
 
-Follow the prompts to select a template and set up your project.
-
 ## Available Templates
-
-- Basic Solana Blinks: A basic Solana Blinks project template
-- Advanced Solana Blinks: An advanced Solana Blinks project with additional features
 
 ## Contributing
 
