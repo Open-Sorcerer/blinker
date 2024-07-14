@@ -6,7 +6,7 @@ const templates = [
     path: "examples/axum",
   },
   {
-    name: "Express",
+    name: "Express Basic",
     description: "Express template for Solana Blinks by Solana Developers",
     repo: "https://github.com/solana-developers/solana-actions",
     path: "examples/express",
@@ -19,8 +19,8 @@ const templates = [
     path: "examples/next-js",
   },
   {
-    name: "NextJS",
-    description: "NextJS template for Solana Blinks by Arihant",
+    name: "Express Advanced",
+    description: "Express template for Solana Blinks by Arihant",
     repo: "https://github.com/arihantbansal/solana-actions-template",
     path: "",
   },
