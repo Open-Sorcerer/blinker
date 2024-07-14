@@ -1,6 +1,6 @@
 {
   "name": "sol-blinker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool for installing Solana Blinks templates",
   "main": "bin/cli.js",
   "bin": {

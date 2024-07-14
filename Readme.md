@@ -39,7 +39,8 @@ If you've installed sol-blinker globally, you can use the same commands without 
 ## Available Templates
 
 - NextJS: A NextJS template for Solana Blinks projects
-- ReactJS: A ReactJS template for Solana Blinks projects
+- Express: An Express template for Solana Blinks projects
+- Axum (Rust): An Axum template for Solana Blinks projects
 
 More templates will be added in future updates.
 
