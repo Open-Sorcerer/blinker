@@ -1,10 +1,10 @@
 {
-  "name": "blinker",
+  "name": "sol-blinker",
   "version": "1.0.0",
   "description": "CLI tool for installing Solana Blinks templates",
   "main": "bin/cli.js",
   "bin": {
-    "blinker": "./bin/cli.js"
+    "sol-blinker": "./bin/cli.js"
   },
   "type": "module",
   "scripts": {
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Open-Sorcerer/blinker.git"
+    "url": "https://github.com/Open-Sorcerer/sol-blinker.git"
   },
   "dependencies": {
     "chalk": "^5.3.0",
